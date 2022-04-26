@@ -1,0 +1,88 @@
+body{
+    background-color: rgba(109, 175, 194, 0.37);
+    background-image: url(pexels-photo-7263517.jpeg);
+   
+    
+   
+}
+.cabeçalho{
+        background-position: left;
+        padding: 20px;
+        text-align: left;
+      background-color: rgba(240, 248, 255, 0.281);
+       background-repeat: no-repeat;
+    
+        
+   }
+   footer span{
+    color: rgba(0, 0, 0, 0.884);
+}
+footer{
+    background-color: rgba(205, 210, 216, 0.589);
+    padding: 50px;
+    text-align: center;
+  
+
+}
+.cabeçalho a{
+
+    color: rgba(0, 0, 0, 0.795);
+    font-size: 20px;
+    text-decoration: none;
+    text-align: right;
+    font-size: 20px;
+    
+  
+    
+}
+H1{
+    text-align: center;
+    color: rgb(143, 201, 224);
+    font-size: 50px;
+    padding: 10px;
+}
+h2{
+    text-align: center;
+    color:rgb(143, 201, 224) ;
+    background-color: rgba(255, 247, 240, 0.411);
+
+}
+h3{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.452);
+}
+.cabeçalho2{ 
+  
+    text-decoration: none;
+    color: black;
+    font-size: 20px; 
+    padding: 10px;
+
+    
+}
+a{
+    color: aliceblue;
+    font-size: 30px;
+   text-align: center;
+
+}
+.cadastro{
+    text-align: right;
+
+}
+.contatos{
+    text-align: right;
+
+}
+.contatos a{
+    padding: 20px;
+    color: aliceblue;
+}
+img:hover{
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+img{
+    border-radius: 20px;
+}
+ 
